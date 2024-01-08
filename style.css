@@ -59,8 +59,8 @@ nav a {
 }
 
 .header {
-    background-image: url(images/header_bg.png);
-    background-position: bottom right;
+    background-image: url(images/header_bg.png), url('images/developer.png');
+    background-position: bottom right, top left;
     background-repeat: no-repeat;
     background-color: #fff8f3;
 
