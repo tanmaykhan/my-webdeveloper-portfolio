@@ -128,3 +128,10 @@ main{
 #what-i-do{
     padding: 30px 150px;
 }
+.skill-container{
+    display: flex;
+}
+.skill{
+    padding: 33px;
+    gap: 24px;
+}
