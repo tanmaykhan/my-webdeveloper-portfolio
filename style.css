@@ -122,3 +122,9 @@ main{
 .about-info{
     text-align: center;
 }
+.info-description{
+    font-size: 20px;
+}
+#what-i-do{
+    padding: 30px 150px;
+}
